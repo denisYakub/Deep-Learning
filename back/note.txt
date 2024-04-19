@@ -1,0 +1,4 @@
+API_KEY AIzaSyB0WwUlss8IfetYU9L8p5fV_RvhGNWgFbE
+VIDEO ID Bzw2T18YDJ4
+
+QUERY https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&maxResults=15&videoId=Bzw2T18YDJ4&key=[YOUR_API_KEY]
